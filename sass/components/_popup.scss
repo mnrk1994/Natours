@@ -92,7 +92,7 @@
 
     }
 
-    @include respond(tab-land){
+    @include respond(tab-port){
         &__content{
         
             width: 75%;
@@ -136,14 +136,7 @@
         &__text{
            font-size: 1.4rem;
            margin-bottom: 2rem;
-    
-           
-    
-    
-           
-    
-           
-    
+           //Test
         }
     
         &:target{
